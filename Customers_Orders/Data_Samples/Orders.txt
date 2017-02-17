@@ -1,0 +1,22 @@
+Lucas|Barcellos|1|1|4|TV 32" LE32H1465|1249|1|1249
+Lucas|Barcellos|1|2|1|Iogurte Grego Danone|1.99|3|5.97
+Pedro|Pereira|2|1|6|Panela de Pressao|69.9|6|419.4
+Pedro|Pereira|3|1|3|Cerveja Amstel|2.79|2|5.58
+Pedro|Pereira|3|2|7|Limpador Veja MultiUso|3.79|1|3.79
+Francisco|Gomes|4|1|5|Papel Higienico Duetto|20.89|4|83.56
+Francisco|Gomes|4|2|4|TV 32" LE32H1465|1249|6|7494
+Francisco|Gomes|4|3|1|Iogurte Grego Danone|1.99|12|23.88
+Francisco|Gomes|5|1|3|Cerveja Amstel|2.79|3|8.37
+Guilherme|Ferreira|6|1|2|Sucrilhos Kellogg's|15.98|2|31.96
+Guilherme|Ferreira|7|1|2|Sucrilhos Kellogg's|15.98|5|79.9
+Guilherme|Ferreira|8|1|3|Cerveja Amstel|2.79|1|2.79
+Luiz|Souza|9|1|5|Papel Higienico Duetto|20.89|1|20.89
+Luiz|Souza|10|1|1|Iogurte Grego Danone|1.99|3|5.97
+Luiz|Souza|10|2|4|TV 32" LE32H1465|1249|9|11241
+Luiz|Souza|11|1|1|Iogurte Grego Danone|1.99|3|5.97
+Luiz|Souza|11|2|3|Cerveja Amstel|2.79|10|27.9
+Diego|Oliveira|12|1|6|Panela de Pressao|69.9|2|139.8
+Diego|Oliveira|13|1|1|Iogurte Grego Danone|1.99|5|9.95
+Diego|Oliveira|13|2|3|Cerveja Amstel|2.79|12|33.48
+Fabio|Tomaz|14|1|3|Cerveja Amstel|2.79|1|2.79
+Fabio|Tomaz|14|2|4|TV 32" LE32H1465|1249|6|7494

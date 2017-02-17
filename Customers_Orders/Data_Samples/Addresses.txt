@@ -1,0 +1,7 @@
+Lucas|Barcellos|Rua 1, casa 2
+Pedro|Pereira|Rua 2, casa 3
+Francisco|Gomes|Rua 3, casa 4
+Guilherme|Ferreira|Rua 4, casa 5
+Luiz|Souza|Rua 5, casa 6
+Diego|Oliveira|Rua 6, casa 7
+Fabio|Tomaz|Rua 7, casa 8
